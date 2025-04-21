@@ -4,7 +4,7 @@ This project explores the capabilities and limitations of CLIP, a vision-languag
 
 
 ## 📁 Project Structure
-
+```
 586-PROJECT-CLIP/
 ├── captions/                   # Modified captions for robustness testing
 │   ├── all_captions.txt
@@ -18,7 +18,7 @@ This project explores the capabilities and limitations of CLIP, a vision-languag
 ├── .gitignore
 ├── LICENSE
 └── README.md                   # Project description (you are here!)
-
+```
 ## 📌 Objectives
 
 - Understand whether CLIP embeddings are more effective than raw image representations.
